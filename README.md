@@ -3,8 +3,8 @@
 
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"
-    ><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&color=2B90C4&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi++There!+%F0%9F%91%8B;I'm+Surjoyday+Talukdar!" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&color=2B90C4&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi++There!+%F0%9F%91%8B;I'm+Surjoyday+Talukdar!" alt="Typing SVG" alt="readme-typing-svg"/>
   </a>
 </h1>
 
@@ -27,15 +27,15 @@
   
 
   <a href="mailto:surjoydaytalukdar.spn@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
   <a href="https://www.linkedin.com/in/surjoyday" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <a href="https://www.linkedin.com/in/surjoyday" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   
 </div>
