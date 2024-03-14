@@ -41,8 +41,14 @@
 
 <hr/>
 
-<h2 align="center"> 🛠️ 📚 🔧 Languages-Frameworks-Tools </h3>
+<h2 align="center"> 🛠️ Languages-Frameworks-Tools </h3>
 <br/>
+<div align="center">
+  <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,html,css,java,react" />
+  </a>     
+
+</div>
 
 
 
