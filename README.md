@@ -35,9 +35,15 @@
   <a href="https://www.linkedin.com/in/surjoyday" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-
   
 </div>
+
+
+<hr/>
+
+<h2 align="center"> 🛠️ 📚 🔧 Languages-Frameworks-Tools </h3>
+<br/>
+
 
 
 
