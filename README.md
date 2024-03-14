@@ -1,4 +1,5 @@
-<img align="right src="https://visitor-badge.laobi.icu/badge?page_id=Surjoyday.Surjoyday"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Surjoyday.Surjoyday"/>
+
 
 
 <h1 align="center">
