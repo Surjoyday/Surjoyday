@@ -9,7 +9,7 @@
 </h1>
 
 
-<h3 align="center">Forging a Path to Full Stack Excellence</h3>
+<h3 align="center">Crafting Full Stack Excellence: Journeying from India 🇮🇳</h3>
 
 
 <br/>
