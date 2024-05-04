@@ -67,8 +67,9 @@
 
 
   <a href="https://git.io/streak-stats">
-    <img width=390 src="https://streak-stats.demolab.com?user=Surjoyday&count_private=true&theme=react&border_radius=10" alt="GitHub Streak" />
+    <img width=390 src="https://streak-stats.demolab.com?user=Surjoyday&theme=react&border_radius=10" alt="GitHub Streak" />
   </a>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
   
