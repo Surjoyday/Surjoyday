@@ -24,17 +24,17 @@
 
 <div align="center">
 
-  
-
-  <a href="mailto:surjoydaytalukdar.spn@gmail.com">
+  <a href="mailto:surjoydaytalukdar.spn@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-
-  <a href="https://www.linkedin.com/in/surjoyday">
+  &nbsp; 
+  
+  <a href="https://www.linkedin.com/in/surjoyday" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp; 
 
-  <a href="https://twitter.com/Surjoydaykt" >
+  <a href="https://twitter.com/Surjoydaykt" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   
@@ -42,7 +42,8 @@
 
 
 
-<h2 align="center"> 🛠️ Languages-Frameworks-Tools 🛠️ </h3>
+
+<h2 > Languages-Frameworks-Tools 🛠️ </h3>
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
@@ -54,14 +55,14 @@
 
 <div align="center">
   <br>
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2 align="left">My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Surjoyday/Surjoyday/output/github-contribution-grid-snake.svg" />
   
   <br/><br/>
 </div>
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2>Stats 📉</h2>
 <br>
 <div align=center>
 
