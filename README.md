@@ -43,7 +43,7 @@
 
 
 
-<h2 > Languages-Frameworks-Tools 🛠️ </h3>
+<h2 align="center" > Languages-Frameworks-Tools 🛠️ </h3>
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
@@ -55,14 +55,14 @@
 
 <div align="center">
   <br>
-  <h2 align="left">My Contributions 🐍</h2>
+  <h2 align="center">My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Surjoyday/Surjoyday/output/github-contribution-grid-snake.svg" />
   
   <br/><br/>
 </div>
 
 
-<h2>Stats 📉</h2>
+<h2 align="center">Stats 📉</h2>
 <br>
 <div align=center>
 
