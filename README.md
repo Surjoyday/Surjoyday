@@ -42,6 +42,7 @@
 
 
 
+<br/>
 
 <h2 align="center" > Languages-Frameworks-Tools 🛠️ </h3>
 <br/>
@@ -58,7 +59,7 @@
   <h2 align="center">My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Surjoyday/Surjoyday/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/>
+  <br/>
 </div>
 
 
