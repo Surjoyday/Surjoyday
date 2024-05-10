@@ -16,7 +16,7 @@
 
 <div align="center">
 
-  🌱 I'm currently learning **React.js, Next.js, Tailwind**
+  🌱 I'm currently learning **React.js, Next.js, Tailwind, Node.js**
 
   💭 Ask me about **JavaScript, React, ...**
   
