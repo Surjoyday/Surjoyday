@@ -34,16 +34,16 @@
 ### Me on Internet:
 
 <p>
-  <a href="https://x.com/Surjoydaykt">
+  <a href="https://x.com/Surjoydaykt" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height=60>
   </a> 
-  <a href="https://www.linkedin.com/in/surjoyday/">
+  <a href="https://www.linkedin.com/in/surjoyday/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height=60>
   </a> 
-  <a href="https://www.instagram.com/surjoyday_kt100/">
+  <a href="https://www.instagram.com/surjoyday_kt100/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" height=60>
   </a>
-  <a href="https://discord.com/users/surjoyday_kt">
+  <a href="https://discord.com/users/surjoyday_kt" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" height=60>
   </a> 
 <br />
