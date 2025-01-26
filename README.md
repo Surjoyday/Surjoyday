@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Surjoyday&color=brightgreen&style=flat)
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=29&duration=4000&pause=1000&color=2B90C4&center=false&vCenter=true&random=false&width=500&height=70&lines=Hi++There!+%F0%9F%91%8B;I'm+Surjoyday+Talukdar!" alt="Typing SVG" alt="readme-typing-svg"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=29&duration=2000&pause=1000&color=2B90C4&center=false&vCenter=true&random=false&width=500&height=70&lines=Hi++There!+%F0%9F%91%8B;I'm+Surjoyday+Talukdar!" alt="Typing SVG" alt="readme-typing-svg"/>
   </a>
 
   *Crafting Seamless Web Experiences | Frontend Developer with Expertise in React.js, Next.js & Tailwind CSS | Educator Passionate About Sharing Knowledge*
