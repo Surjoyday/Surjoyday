@@ -8,7 +8,7 @@
 
 
 
-<img align="right" alt="Coding" width="300"  height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWphdmZ6dm1qNGwybHZwb2IydWE2aml1eml6NHk4cWh0OHVuc2ExZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+<img align="right" alt="Coding" width="300"  height="200" src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc5MjM2NzQsIm5iZiI6MTczNzkyMzM3NCwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTI2VDIwMjkzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFiZTYwNjg3MWI1MTdiZjZmYWZjY2E0YjRjNGUxYmVhNTgxOTY4YTBhZTc1MGFiZTc0YmMzM2Q1NmUyZjQ0NzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.LE8Db39KjmaW8Q4Uj9jTAuHum3oc7fmC6ZnshKhQlOM">
 
 - 🌱 I’m currently trying to learn [Express.js](https://expressjs.com/) and [MongoDB](https://www.mongodb.com/).
 - 🔭 I’m currently working on **some of my side projects :P**
@@ -16,9 +16,6 @@
 - 💬 Ask me about React.js and Next.js.
 - 📫 How to reach me **surjoydaytalukdar.spn@gmail.com**
 - ⚡ Fun fact: I enjoy learning new things and spend over 2 hours daily exploring technology and ideas. It helps me stay curious and motivated!
-<br />
-<br />
-<br />
 
 
 
@@ -27,8 +24,8 @@
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,html,css,php,bootstrap,java,tailwind" /><br/>
-    <img src="https://skillicons.dev/icons?i=vscode,idea,git,figma,notion" />
-  </a>     
+<!--     <img src="https://skillicons.dev/icons?i=vscode,idea,git,figma,notion" />
+  </a>      -->
 </div>
 
 <br/>
@@ -53,11 +50,13 @@
 <br />
 
 
-## &#128013; My Contributions:
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Surjoyday/Surjoyday/output/github-contribution-grid-snake.svg" />
 
-<br/>
-<br/>
+
+<!-- ## &#128013; My Contributions: <div align="center">  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Surjoyday/Surjoyday/output/github-contribution-grid-snake.svg" />
+</div> <br/>
+<br/> -->
+
+
 
 ## &#x1f4c8; GitHub Stats
 <div align=center>
