@@ -22,6 +22,6 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          # The "|| echo" part stops the error if there is nothing new to save
+          # This line prevents the "Red Error" if there are no new updates
           git commit -m "Daily Profile Update" || echo "No changes to commit"
           git push
