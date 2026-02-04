@@ -1,0 +1,23 @@
+name: contribution-metrics
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate Isometric Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Surjoyday
+          template: classic
+          base: ""
+          config_timezone: Asia/Kolkata
+          filename: isocalendar.svg
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
