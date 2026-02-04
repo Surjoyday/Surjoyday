@@ -14,14 +14,17 @@ jobs:
       
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
+          # Use your custom token to see private stats
           GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          # Point to the config file we just made
+          SETTING_JSON: conf/github-profile-3d-contrib.json
           
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          # This line prevents the "Red Error" if there are no new updates
-          git commit -m "Daily Profile Update" || echo "No changes to commit"
-          git push
+      - name: Push SVGs to the output-3d-contrib branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output-3d-contrib
+          build_dir: profile-3d-contrib
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
