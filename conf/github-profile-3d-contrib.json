@@ -1,0 +1,22 @@
+[
+    {
+        "type": "normal",
+        "fileName": "day.svg",
+        "backgroundColor": "#ffffff",
+        "foregroundColor": "#000000",
+        "strongColor": "#ebedf0",
+        "weakColor": "#40c463",
+        "radarColor": "#40c463",
+        "growingAnimation": true
+    },
+    {
+        "type": "git-block",
+        "fileName": "night.svg",
+        "backgroundColor": "#0D1117",
+        "foregroundColor": "#ffffff",
+        "strongColor": "#161b22",
+        "weakColor": "#006d32",
+        "radarColor": "#006d32",
+        "growingAnimation": true
+    }
+]
