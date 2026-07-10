@@ -2,13 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=29&duration=2000&pause=1000&color=2B90C4&center=false&vCenter=true&random=false&width=500&height=70&lines=Hi++There!+%F0%9F%91%8B;I'm+Surjoyday+Talukdar!" alt="Typing animation: Hi There! I'm Surjoyday Talukdar!"/>
 </a>
 
-*Frontend Developer at [AISquare Studio](https://github.com/AISquare-Studio) | Building Agentic AI Workflows with the Claude API | React, Next.js, TypeScript & Python*
+*AI Software Engineer at [AISquare Studio](https://github.com/AISquare-Studio) | Building Production AI Platforms & Agentic Workflows | React, Next.js, TypeScript & Python*
 
 <img align="right" alt="Coding" width="300" height="200" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
 
-- 🤖 I'm currently building **agentic AI workflows** with the **Claude API (Anthropic)** at [@AISquare-Studio](https://github.com/AISquare-Studio)
-- 🧪 I built **QA testing agents** that drive **Playwright** through **crewAI**
-- 🌱 I'm currently deepening my **Python**, **Django** and **NLP** skills
+- 🤖 I'm currently building **agentic AI workflows** and **multi-agent systems** with the **Claude, OpenAI & Gemini APIs** at [@AISquare-Studio](https://github.com/AISquare-Studio)
+- 🧪 I build **QA testing agents** with **Playwright** and automate workflows with **n8n**
+- 🌱 I'm currently deepening my **Python**, **FastAPI** and **RAG** skills
 - 👯 I'm looking to collaborate on **anything free and open source**
 - 💬 Ask me about **React.js, Next.js, and building agents with Claude**
 - 📫 How to reach me: **surjoydaytalukdar.spn@gmail.com**
@@ -18,8 +18,8 @@
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,py,nodejs,express,django,mongodb,bootstrap,tailwind,html,css" alt="React, Next.js, TypeScript, JavaScript, Python, Node.js, Express, Django, MongoDB, Bootstrap, Tailwind CSS, HTML and CSS"/><br/>
-    <img src="https://skillicons.dev/icons?i=vscode,git" alt="VS Code and Git"/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,py,redux,nodejs,express,fastapi,postgres,bootstrap,tailwind,html,css" alt="React, Next.js, TypeScript, JavaScript, Python, Redux, Node.js, Express, FastAPI, PostgreSQL, Bootstrap, Tailwind CSS, HTML and CSS"/><br/>
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma" alt="VS Code, Git, GitHub, Postman and Figma"/>
   </a>
 </div>
 
@@ -27,11 +27,10 @@
 
 <p>
   <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude API">
-  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic">
-  <img src="https://img.shields.io/badge/crewAI-FF5A50?style=for-the-badge&logo=crewai&logoColor=white" alt="crewAI">
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge" alt="OpenAI API">
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" alt="Playwright">
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">
-  <img src="https://img.shields.io/badge/NLP%20%C2%B7%20NLTK-4B8BBE?style=for-the-badge" alt="Natural language processing with NLTK">
 </p>
 
 ### Me on Internet:
@@ -50,10 +49,6 @@
     <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" height=60 width=60 alt="Discord">
   </a>
 </p>
-
-### My Contributions:
-
-96% of my past-year contributions live in private [@AISquare-Studio](https://github.com/AISquare-Studio) repos — the snake below only gets the public leftovers. It's regenerated every 12 hours by a GitHub Action in this repo.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Surjoyday/Surjoyday/output/github-contribution-grid-snake-dark.svg">
