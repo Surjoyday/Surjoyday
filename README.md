@@ -4,10 +4,8 @@
 
 *AI Software Engineer at [AISquare Studio](https://github.com/AISquare-Studio) | Building Production AI Platforms & Agentic Workflows | React, Next.js, TypeScript & Python*
 
-<img align="right" alt="Coding" width="300" height="200" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
-
 - 🤖 I'm currently building **agentic AI workflows** and **multi-agent systems** with the **Claude, OpenAI & Gemini APIs** at [@AISquare-Studio](https://github.com/AISquare-Studio)
-- 🧪 I build **QA testing agents** with **Playwright** and automate workflows with **n8n**
+- ⚙️ I build **AI-powered automations** with **n8n**
 - 🌱 I'm currently deepening my **Python**, **FastAPI** and **RAG** skills
 - 👯 I'm looking to collaborate on **anything free and open source**
 - 💬 Ask me about **React.js, Next.js, and building agents with Claude**
