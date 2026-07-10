@@ -1,80 +1,101 @@
-![](https://komarev.com/ghpvc/?username=Surjoyday&color=brightgreen&style=flat)
+# Hi, I'm Surjoyday Talukdar 👋
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=29&duration=2000&pause=1000&color=2B90C4&center=false&vCenter=true&random=false&width=500&height=70&lines=Hi++There!+%F0%9F%91%8B;I'm+Surjoyday+Talukdar!" alt="Typing SVG" alt="readme-typing-svg"/>
-  </a>
+**Frontend Developer at [AISquare Studio](https://github.com/AISquare-Studio) — React and Next.js on the surface, Claude-powered agents underneath.**
 
-  *Crafting Seamless Web Experiences | Frontend Developer with Expertise in React.js, Next.js & Tailwind CSS | Educator Passionate About Sharing Knowledge*
+I build scalable, high-performance web apps with React, Next.js, and TypeScript — and the agentic systems that test and orchestrate them, built on the **Claude API (Anthropic)**, **crewAI**, and **Django**.
 
+## Right now
 
+- 🤖 Designing **agentic AI workflows** with the **Claude API** at [@AISquare-Studio](https://github.com/AISquare-Studio)
+- 🧪 Building **QA testing agents** that drive **Playwright** through **crewAI** → [AISquare-Studio-QA](https://github.com/Surjoyday/AISquare-Studio-QA)
+- ⚙️ Working on [django-ais](https://github.com/Surjoyday/django-ais) — turning Django into an agentic-workflow runtime: jobs live in the DB, pipelines are declared in YAML, events stream in real time
+- 🧠 Long-standing **NLP** interest (emoji detection, NLTK tagging) — it's what pulled me toward agents in the first place
 
-<img align="right" alt="Coding" width="300"  height="200" src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc5MjM2NzQsIm5iZiI6MTczNzkyMzM3NCwicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTI2VDIwMjkzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFiZTYwNjg3MWI1MTdiZjZmYWZjY2E0YjRjNGUxYmVhNTgxOTY4YTBhZTc1MGFiZTc0YmMzM2Q1NmUyZjQ0NzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.LE8Db39KjmaW8Q4Uj9jTAuHum3oc7fmC6ZnshKhQlOM">
+## Featured work
 
-- 🌱 I’m currently trying to learn [Express.js](https://expressjs.com/) and [MongoDB](https://www.mongodb.com/).
-- 🔭 I’m currently working on **some of my side projects :P**
-- 👯 I’m looking to collaborate on **anything free and open source**
-- 💬 Ask me about React.js and Next.js.
-- 📫 How to reach me **surjoydaytalukdar.spn@gmail.com**
-- ⚡ Fun fact: I enjoy learning new things and spend over 2 hours daily exploring technology and ideas. It helps me stay curious and motivated!
+| Project | What it does | Built with |
+| :-- | :-- | :-- |
+| [**AISquare-Studio-QA**](https://github.com/Surjoyday/AISquare-Studio-QA) | Agentic QA — testing agents built with crewAI that run end-to-end browser tests through Playwright | Python · crewAI · Playwright |
+| [**django-ais**](https://github.com/Surjoyday/django-ais) | Turns Django into an agentic-workflow runtime — DB-backed job management, Worker/Strategy/Gateway pattern, YAML pipelines, real-time event streaming | Python · Django |
+| [**the-footprints-northeast-adventures**](https://github.com/Surjoyday/the-footprints-northeast-adventures) | Production travel platform for exploring Northeast India — the most active project on this profile | TypeScript · Next.js |
+| [**ai-chat-exporter**](https://github.com/Surjoyday/ai-chat-exporter) | Browser extension for exporting your AI chat conversations | JavaScript |
 
+<sub>Where it started: [react-quiz-v2](https://github.com/Surjoyday/react-quiz-v2) · [eat-n-split](https://github.com/Surjoyday/eat-n-split) · [watch-list](https://github.com/Surjoyday/watch-list) — React fundamentals, learned in public.</sub>
 
+## Stack
 
-### Tech Stack:
+<table>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=light">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=light" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML and CSS">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>AI &amp; Agentic</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude API">
+      <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic">
+      <img src="https://img.shields.io/badge/crewAI-FF5A50?style=for-the-badge&logo=crewai&logoColor=white" alt="crewAI">
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" alt="Playwright">
+      <img src="https://img.shields.io/badge/NLP%20%C2%B7%20NLTK-4B8BBE?style=for-the-badge" alt="Natural language processing with NLTK">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,py,django,mongodb&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,py,django,mongodb&theme=light">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,py,django,mongodb&theme=light" alt="Node.js, Express, Python, Django and MongoDB">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,git&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode,git&theme=light">
+        <img src="https://skillicons.dev/icons?i=vscode,git&theme=light" alt="VS Code and Git">
+      </picture>
+      <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">
+    </td>
+  </tr>
+</table>
 
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,js,nodejs,express,html,css,php,bootstrap,java,tailwind" /><br/>
-<!--     <img src="https://skillicons.dev/icons?i=vscode,idea,git,figma,notion" />
-  </a>      -->
-</div>
+## Contributions
 
-<br/>
+96% of my past-year contributions live in private [@AISquare-Studio](https://github.com/AISquare-Studio) repos — the snake below only gets the public leftovers. It's regenerated every 12 hours by a GitHub Action in this repo.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Surjoyday/Surjoyday/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Surjoyday/Surjoyday/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Surjoyday/Surjoyday/output/github-contribution-grid-snake.svg" alt="Snake animation eating my GitHub contribution graph">
+</picture>
 
-### Me on Internet:
+<img src="https://streak-stats.demolab.com?user=Surjoyday&theme=transparent&hide_border=true" alt="GitHub streak stats: 7,000+ total contributions since September 2021">
 
-<p>
-  <a href="https://x.com/Surjoydaykt" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" height=60 width=60>
-  </a> 
-  <a href="https://www.linkedin.com/in/surjoyday/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height=60 width=60>
-  </a> 
-  <a href="https://www.instagram.com/surjoyday_kt100/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" height=60 width=60>
-  </a>
-  <a href="https://discord.com/users/surjoyday_kt" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" height=60 width=60>
-  </a> 
-<br />
-<br />
+<details>
+<summary>🌆 The same graph, rendered in 3D</summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Surjoyday/Surjoyday/output-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Surjoyday/Surjoyday/output-3d-contrib/profile-green-animate.svg">
+  <img src="https://raw.githubusercontent.com/Surjoyday/Surjoyday/output-3d-contrib/profile-green-animate.svg" alt="3D render of my GitHub contribution graph">
+</picture>
+</details>
 
+## Find me
 
+**Hireable — open to roles and conversations in frontend engineering, agentic AI, or the overlap between the two.**
 
+📫 [surjoydaytalukdar.spn@gmail.com](mailto:surjoydaytalukdar.spn@gmail.com) · [LinkedIn](https://www.linkedin.com/in/surjoyday/) · [X (Twitter)](https://x.com/Surjoydaykt) · [Instagram](https://www.instagram.com/surjoyday_kt100/) · Discord: `surjoyday_kt`
 
-<!-- ## &#128013; My Contributions: <div align="center">  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Surjoyday/Surjoyday/output/github-contribution-grid-snake.svg" />
-</div> <br/>
-<br/> -->
+<br>
 
-
-
-<!-- ## &#x1f4c8; GitHub Stats
-
-<!-- <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Surjoyday&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats"/>
-  <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Surjoyday&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages"/>
-</div>
-
-<!--   <a href="https://git.io/streak-stats">
-    <img width=390 src="https://streak-stats.demolab.com?user=Surjoyday&theme=react&border_radius=10" alt="GitHub Streak" />
-  </a> -->
-
-<!-- <br/><br/>
-
-
-
-
-
-
-
-
+<img src="https://komarev.com/ghpvc/?username=Surjoyday&color=blue&style=flat" alt="Profile views counter"> <sub>Assembled with a little help from Claude Code — naturally.</sub>

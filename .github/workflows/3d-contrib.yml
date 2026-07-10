@@ -1,0 +1,41 @@
+# GitHub Action for generating a 3D render of the contribution graph.
+# Publishes SVGs to the output-3d-contrib branch (referenced by README.md).
+name: Generate 3D contribution graph
+
+on:
+  schedule:
+    # every 12 hours, offset from the snake workflow
+    - cron: "30 */12 * * *"
+
+  # Allows running the Action manually from the Actions tab.
+  workflow_dispatch:
+
+  # Also run on every push on the main branch
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Clone repo
+        uses: actions/checkout@v3
+
+      - name: Generate the 3D contribution SVGs in './profile-3d-contrib/'
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Push new files to the output-3d-contrib branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output-3d-contrib
+          build_dir: profile-3d-contrib
+          commit_message: Update 3D contribution graph
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
